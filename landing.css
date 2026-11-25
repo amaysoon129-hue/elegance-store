@@ -1,3 +1,5 @@
+/* الاسم : ميسون عدنان الغولة الرقم الجامعي: 2301214399 */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -69,7 +71,7 @@ body {
 .hero-content {
     max-width: 720px;
     background-color: #ffffff;
-    border: 1px solid #d1d5db;
+    border: 1px solid #ea580c;
     border-radius: 4px;
     padding: 40px 28px;
 }
@@ -151,7 +153,7 @@ body {
 
 .feature-card {
     background-color: #ffffff;
-    border: 1px solid #d1d5db;
+    border: 1px solid #ea580c;
     border-radius: 4px;
     padding: 24px;
 }
@@ -189,7 +191,7 @@ body {
     flex: 1 1 280px;
     max-width: 340px;
     background-color: #ffffff;
-    border: 1px solid #d1d5db;
+    border: 1px solid #ea580c;
     border-radius: 4px;
     padding: 22px;
 }
